@@ -66,7 +66,7 @@ class Blockchain:
             block_index+=1
             return True
         
-            
+             
 #parte 2 minar un bloque
 
 #Crear una web con Flask
